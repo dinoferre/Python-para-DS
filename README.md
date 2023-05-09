@@ -34,3 +34,12 @@
   
   -Support Vector Machines, Árboles de Decisión y Dummy Classifiers.
   
+ 05.Introduccion a Machine Learning
+ 
+  -Limpiar y tratar datos faltantes.
+  
+  -Remover outliers y crear nuevas variables.
+  
+  -Python Pandas, Matplotlib, Jupyter y Anaconda.
+
+  
