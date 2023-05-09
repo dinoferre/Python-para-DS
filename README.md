@@ -1,4 +1,4 @@
-# Python-para-DS
+# Python-para-DS (Oracle/Alura)
 
 01.Introduccion al lenguaje
 
