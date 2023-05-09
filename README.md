@@ -26,3 +26,11 @@
   
   -Estilos y Colores.
   
+ 04.Clasificacion con SKLearn
+ 
+  -Compare el resultado de algoritmos lineales y lineales.
+  
+  -Estudios replicables, con estrategias de prueba y testeo.
+  
+  -Support Vector Machines, Árboles de Decisión y Dummy Classifiers.
+  
