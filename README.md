@@ -17,3 +17,12 @@
   -Uso de paquetes para organizar el código.
   
   -Built-in Functions de Python.
+  
+ 03.Explorando con Seaborn
+ 
+  -Utilizción de Seaborn para creación de diferentes gráficos.
+  
+  -Técnicas graficas y cuantitativas, buscando a obtener informaciones relevantes.
+  
+  -Estilos y Colores.
+  
