@@ -36,6 +36,16 @@
   
  05.Introduccion a Machine Learning
  
+  -Hiperparámetros y los espacios de parámetros.
+  
+  -Evitar el overfit.
+  
+  -Utilizar y explorar con el GridSearchCV.
+  
+  -Nested cross validation.
+ 
+ 06/07.Pandas: Tratamiento y análisis de datos
+ 
   -Limpiar y tratar datos faltantes.
   
   -Remover outliers y crear nuevas variables.
